@@ -4,8 +4,8 @@ import java.sql.*;
 public class QueryMySQL {
 
 	// For MySQL -> jdbc:mysql://hostname:portNumber/databaseName
-	private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/assignment_3";
-	private static final String USER_NAME = "busenurshen";
+	private static final String DATABASE_URL = "-";
+	private static final String USER_NAME = "";
 	private static final String PASSWORD = "";
 
 	public static void main(String args[]) {
